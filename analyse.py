@@ -70,7 +70,6 @@ class ContactGoodCharge(Plan):
 class ContactGoodChargeLowUser(ContactGoodCharge):
     pass
 
-
 class ContactGoodNights(Plan):
 
     def variable(self, date: datetime) -> float:
