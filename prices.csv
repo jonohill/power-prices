@@ -1,0 +1,31 @@
+name                          ,variable ,daily  ,surcharge ,bonus ,offpeak ,night
+ContactGoodCharge             , 24.61   ,262.4  ,0.0095    ,      ,12.305  ,  
+ContactGoodChargeLowUser      , 31.855  ,103.5  ,0.0095    ,      ,15.87   ,  
+ContactGoodNights             , 24.725  ,263.4  ,0.0095    ,      ,        ,  
+ContactGoodNightsLowUser      , 33.81   ,103.5  ,0.0095    ,      ,        ,  
+ContactGoodWeekends           , 18.4    ,250.9  ,0.0095    ,      ,        ,  
+ContactGoodWeekendsLowUser    , 26.91   ,103.5  ,0.0095    ,      ,        ,  
+ContactSimple                 , 21.574  ,237.4  ,0.0095    ,      ,        ,  
+ContactSimpleLowUser          , 27.669  ,103.5  ,0.0095    ,      ,        ,  
+ElectricKiwiKiwi              , 34.63   ,254    ,0.015     ,      ,25.98   ,  
+ElectricKiwiKiwiLowUser       , 71.27   , 69    ,0.015     ,      ,35.63   ,  
+ElectricKiwiMoveMaster        , 32.52   ,254    ,0.015     ,      ,22.77   ,16.26
+ElectricKiwiMoveMasterLowUser , 56.88   , 69    ,0.015     ,      ,34.12   ,28.44
+FlickOffPeak                  , 25.5875 ,270.25 ,          ,      ,15.502  ,  
+Frank                         , 22.31   ,155.25 ,          ,      ,        ,  
+FrankLowUser                  , 25.07   ,103.5  ,          ,      ,        ,  
+GenesisEV                     , 32.87   ,103.5  ,-0.03     ,      ,16.42   ,  
+GenesisFixed                  , 30.28   ,103.5  ,-0.03     ,      ,        ,  
+MercuryBroadband              , 27.97   ,138    ,          ,  414 ,        ,  
+MercuryFixed                  , 27.97   ,138    ,0.008     ,  300 ,        ,  
+MercuryOpenTerm               , 18.4805 ,223.1  ,0.008     ,      ,        ,  
+Nova                          , 30.887  ,128    ,          ,      ,        ,  
+OctopusFixed                  , 27.416  ,247.25 ,          ,      ,21.666  ,13.708
+OctopusFixedLowUser           , 35.0405 ,103.5  ,          ,      ,29.2905 ,17.526
+TwoDegrees                    , 27.0365 ,284.97 ,0.01      ,  240 ,        ,  
+TwoDegreesLowUser             , 35.8455 , 92    ,0.01      ,  240 ,        ,  
+ZEv                           , 23.84   ,270.25 ,          ,      ,11.92   ,  
+ZEvLowUser                    , 34.52   ,103.5  ,          ,      ,17.26   ,  
+ZFuel                         , 23.6785 ,270.25 ,-0.115    ,  115 ,        ,  
+ZFuelLowUser                  , 29.693  ,138    ,-0.115    ,  115 ,        ,  
+Slingshot                     , 35.8455 ,  0.92 ,          ,  240 ,        ,  
